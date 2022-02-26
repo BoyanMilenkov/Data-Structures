@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Phone Book/1.0.0": {
+        "dependencies": {
+          "Bogus": "34.0.1",
+          "SoftUni.Wintellect.PowerCollections": "2.0.0"
+        },
+        "runtime": {
+          "Phone Book.dll": {}
+        }
+      },
+      "Bogus/34.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {
+            "assemblyVersion": "34.0.1.0",
+            "fileVersion": "34.0.1.0"
+          }
+        }
+      },
+      "SoftUni.Wintellect.PowerCollections/2.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Wintellect.PowerCollections.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phone Book/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bogus/34.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-49iq7QrD0wb7V4/FcK8p3dWdJxNUbojaqK9L6KRvdikIuRjt38EsNp7QXICcYdbYw01K8BHUdxlnTNn/YX3qDA==",
+      "path": "bogus/34.0.1",
+      "hashPath": "bogus.34.0.1.nupkg.sha512"
+    },
+    "SoftUni.Wintellect.PowerCollections/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmx9igyEyHA+/0uVYrq6iT6rqgw7CbbLKDd9PD5MuTabBGmpdo+PLqw9LORWSfkEF+C3O4viB2GJxYyd3YYGEA==",
+      "path": "softuni.wintellect.powercollections/2.0.0",
+      "hashPath": "softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+    }
+  }
+}
